@@ -14,11 +14,11 @@ This project seeks to provide suggestions to enhance employee well-being, improv
 ## Data
 The data used in this project is collected from two datasets and web scraping from two credible websites.
 
-[df1 - Remote Work & Mental Health](https://www.kaggle.com/datasets/iramshahzadi9/remote-work-and-mental-health)
-[df2 - Absenteeism At Work ](https://www.kaggle.com/datasets/saumitgp/absenteeism-at-work?select=Absenteesim+At+Work.csv)
+- [df1 - Remote Work & Mental Health](https://www.kaggle.com/datasets/iramshahzadi9/remote-work-and-mental-health)
+- [df2 - Absenteeism At Work ](https://www.kaggle.com/datasets/saumitgp/absenteeism-at-work?select=Absenteesim+At+Work.csv)
 
-[url1 - Burnout Statistics](https://flair.hr/en/blog/burnout-statistics/)
-[url2 - Job burnout](https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/burnout/art-20046642)
+- [url1 - Burnout Statistics](https://flair.hr/en/blog/burnout-statistics/)
+- [url2 - Job burnout](https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/burnout/art-20046642)
 
 
 **Main Challenges**:
